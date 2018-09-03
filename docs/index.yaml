@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  supermario:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-09-03T11:36:05.690227507+02:00
+    description: A Helm chart for Kubernetes
+    digest: a72b618b6cd5757c0bcff5ee395a75c60efcbc59c7d4b737aa6b3f7e92d8a1a1
+    name: supermario
+    urls:
+    - https://almorelle.github.com/supermario/supermario-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-09-03T11:36:05.689688858+02:00
